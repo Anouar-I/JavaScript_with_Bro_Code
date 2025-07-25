@@ -1,0 +1,24 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+
+}
+#mybtn{
+    font-size: 3em;
+    padding: 5px 25px;
+    color: hsl(180, 50%, 1%);
+    background-color: hsl(160, 100%, 75%);
+    border-radius: 5px;
+}
+#mybtn:hover{
+    background-color: hsl(160, 100%, 55%);
+    color: hsl(222, 100%, 50%);
+    cursor: pointer;
+    outline: black solid 2px;
+
+}
+.myLabels{
+    font-size: 3em;
+
+
+}

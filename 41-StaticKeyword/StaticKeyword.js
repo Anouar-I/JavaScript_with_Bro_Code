@@ -54,7 +54,7 @@ console.log(user2.username);
 console.log(user3.username);
 console.log(user1.userCount); // will come undefined because userCount is static and belong to User class
  
-// to acceses it call the User.userCount
+// to access it call the User.userCount
 
 user1.sayHello();
 user2.sayHello();

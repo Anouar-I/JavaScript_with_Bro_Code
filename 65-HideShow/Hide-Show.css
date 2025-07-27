@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+}
+#myImg{
+    box-shadow: 1px 1px 9px gold;
+}
+#myBtn{
+    Background-color: white;
+    font-size: 2rem;
+}

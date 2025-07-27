@@ -1,0 +1,9 @@
+.myBtn{
+    font-size: 4rem;
+    margin: 10px;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 15px;
+    background-color: hsl(84, 100%, 59%);
+    color: black;
+}

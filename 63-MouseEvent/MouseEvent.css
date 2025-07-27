@@ -1,0 +1,16 @@
+#myBox{
+    background-color : lightgreen;
+    width: 300px;
+    height: 300px;
+    font-size: 4.5rem;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+#myBtn{
+    font-size: 3rem;
+    border: black;
+    border-radius: 12px;
+}
+

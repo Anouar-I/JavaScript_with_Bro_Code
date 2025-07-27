@@ -1,0 +1,25 @@
+#myH1{
+    font-size: 5rem;
+    justify-content: center;
+    text-align: center;
+}
+.myButtons{
+    font-size: 4rem;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+}
+
+.enabled{
+    background-color: blue;
+    color: white;
+}
+.hover{
+    box-shadow: 0 0 10px greenyellow;
+    font-weight: bold;
+}
+.disabled{
+    background-color: hsl(271, 76%, 20%);
+    color: hsl(0, 0%, 80%);
+}
